@@ -1,4 +1,4 @@
-## Author Info
+# Author Info
 
 Name: Ramesh Pandey
 Email: ramesh.pandey@tuni.fi
